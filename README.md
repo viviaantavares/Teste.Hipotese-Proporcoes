@@ -1,16 +1,8 @@
 ## Desafio ONG
-Instruções
 
-Somos uma ong de animais e queremos incentivar a adoção de pets. Para isso, vamos mostrar um vídeo de animais para as pessoas. Porém, não sabemos o que é mais efetivo: um vídeo de cachorros ou um vídeo de gatos.
+Para promover e incentivar a adoção de animais, nossa organização exibirá um vídeo de pets aos visitantes. Nosso objetivo é compreender qual tipo de vídeo — apresentando gatos ou cachorros — gera maior impacto e engajamento nas adoções. Portanto, queremos responder à seguinte questão: a probabilidade média de adoção entre pessoas que assistem a vídeos de gatos é igual à probabilidade média entre aquelas que assistem a vídeos de cachorros?
 
-Por isso, resolvemos rodar um experimento: vamos criar 2 vídeos, um de cachorro e outro de gato. Depois, vamos perguntar as pessoas a probabilidade de que ela adote um animal.
+Para verificar essa hipótese, realizaremos uma análise estatística utilizando um teste de hipótese, que nos permitirá comparar as médias de probabilidade de adoção entre os dois grupos. A aplicação desse teste estatístico ajudará a determinar se há uma diferença significativa entre as duas médias ou se os vídeos de gatos e cachorros são igualmente eficazes para promover a adoção de pets.
 
-As pessoas desse experimento só verão 1 vídeo cada Ao final do vídeo perguntamos a elas a probabilidade de que elas adotem um animal As amostras são aleatórias e sem viéses sistemáticos Objetivo: Avaliar qual animal (cachorro ou gato) deve estar em um vídeo de campanha de adoção
+Essa análise nos guiará para uma abordagem mais informada e estratégica, permitindo direcionar nossos esforços de maneira a maximizar o impacto de nossas campanhas e contribuir para que mais animais encontrem lares adotivos.
 
-Experimento: 500 pessoas que não possuem animais de estimação assistem aos vídeos de campanha de adoção. Os vídeos são idênticos com exceção dos animais mostrados:
-
-250 pessoas aleatorizadas para o vídeo com gato 250 pessoas aleatorizadas para o vídeo com cachorro Resposta: "Qual a chance de adotar um pet? (0-100)" depois do vídeo
-
-A média de probabilidade de quem vê o vídeo de gato é igual a de cachorro?
-
-Vamos realizar uma Análise referente a essa pergunta. 
